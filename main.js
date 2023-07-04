@@ -140,6 +140,6 @@ class Field {
 
 }
 
-const myField = Field.generateField(3, 4, 0.5);  
+const myField = Field.generateField(20, 10, 0.3);  
 
 myField.run(); 
